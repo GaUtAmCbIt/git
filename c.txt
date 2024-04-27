@@ -10,4 +10,5 @@ git push -u origin # for the first time
 git push # for next time when we do it
 ## to pull the changes in the github
 git pull
+i am a person
 
