@@ -10,5 +10,9 @@ git push -u origin # for the first time
 git push # for next time when we do it
 ## to pull the changes in the github
 git pull
+<<<<<<< Updated upstream
 i am a person
 
+=======
+helloptrkhpotrkpotkhpotrkhp
+>>>>>>> Stashed changes
