@@ -8,3 +8,4 @@ git commit -m "message commit"
 git push -u origin # for the first time
 git push # for next time when we do it
 hello i am pulling this information to github
+i am gautam bal
