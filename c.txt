@@ -2,11 +2,12 @@ hello world
 i am gautam
 irfvjtovnfopgegignpss
 charan is jafda
+## pushing the elements fromn terminal o github
 ## to add the content in the github follow the following commands#
 git add c.txt
 git commit -m "message commit"
 git push -u origin # for the first time
 git push # for next time when we do it
-hello i am pulling this information to github
-i am gautam balyi
-injono
+## to pull the changes in the github
+git pull
+
